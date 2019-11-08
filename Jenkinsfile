@@ -1,4 +1,3 @@
-#####jenkins file for magento 2.3.3#### latest 
 pipeline {
   agent any
   stages {
